@@ -1,20 +1,12 @@
-import java.util.Scanner;
+
 public class acad {
 
-	private static Scanner sc;
-
 	public static void main(String[] args) {
-		sc = new Scanner(System.in);
-
-int a=sc.nextInt();
-int b=sc.nextInt();
-
+		// TODO Auto-generated method stub
+int a=10;
+int b=20;
 int c=a+b;
 System.out.println(c);
 	}
 
 }
-
-	
-
-
